@@ -1,7 +1,7 @@
 # depenguin.me modifications to rc.local.sample
 
 # Remove root password
-/usr/sbin/pw usermod -h -
+/usr/sbin/pw usermod -h root -
 
 # create mfsbsd user
 pw groupadd mfsbsd
