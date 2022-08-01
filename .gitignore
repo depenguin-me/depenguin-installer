@@ -16,3 +16,7 @@ tools/roothack/roothack.debug
 tools/roothack/roothack.full
 tools/roothack/roothack.o
 work
+settings.cfg
+master.zip
+FreeBSD-13.1-RELEASE-amd64-dvd1.iso
+rc.local.in
